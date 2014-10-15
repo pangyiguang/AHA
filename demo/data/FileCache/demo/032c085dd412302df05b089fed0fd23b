@@ -1,0 +1,1 @@
+a:2:{s:10:"expireTime";i:1385810224;s:7:"content";s:359:"<!DOCTYPE html><html><head><title>一个调用smarty模板的例子</title><meta charset="UTF-8"><meta name="viewport"content="width=device-width"></head><body><div><p>一个调用smarty模板的例子</p><p>APP_ACTION:index</p><p>APP_VIEW:index2</p>result:<pre>string(33)"一个调用smarty模板的例子"</pre></div></body></html><!--2013-11-30 11:17:04-->";}
